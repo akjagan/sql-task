@@ -152,7 +152,7 @@ orders tables to retrieve the customer's name (c.name) and order date (o.order_d
 -- This normalization improves data integrity and flexibility.
 
 
--- -- j) Retrieve the average total of all orders:
+-- -- j Retrieve the average total of all orders:
 -- SELECT AVG(total_amount) AS average_total
 -- FROM orders;
 
